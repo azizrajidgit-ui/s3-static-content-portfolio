@@ -24,7 +24,7 @@ This project creates a publicly accessible S3 bucket where only specific objects
 
 
 ### 1. EC2 Instance Running
-![EC2 Instance List](screenshots/01-ec2-instances-list.png)
+![EC2 Instance List](screenshots/01-ec2-instances.png)
 
 ### 2. SSH Connection Established
 ![SSH Connected](screenshots/02-ssh-connected-terminal.png)
